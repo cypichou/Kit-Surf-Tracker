@@ -6,3 +6,4 @@ leur permettra de collecter et visualiser leurs données. Les données en questi
 temps d’un entraînement, la vitesse et son évolution au cours d’une activité et enfin la hauteur
 des sauts. L’utilisateur pourra recueillir les données sur son téléphone afin de facilement les
 visualiser et les partager.
+[GODET_Cyprien.docx.pdf](https://github.com/cypichou/Kit-Surf-Tracker/files/10501733/GODET_Cyprien_MAFOUA_Bernnick.docx.pdf)
